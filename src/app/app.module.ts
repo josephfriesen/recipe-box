@@ -3,6 +3,7 @@ import { NgModule } from '@angular/core';
 
 
 import { AppComponent } from './app.component';
+import { DisplayRecipeComponent } from './display-recipe/display-recipe.component';
 
 
 @NgModule({

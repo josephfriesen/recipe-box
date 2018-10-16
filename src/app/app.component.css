@@ -1,0 +1,36 @@
+.red {
+  color: red;
+}
+
+.recipe-display {
+  width: 80%;
+  margin: 0 auto;
+  margin-top: 20px;
+}
+
+.label {
+  text-align: center;
+  font-size: 1.5rem;
+  color: green;
+  font-weight: bolder;
+}
+
+.recipe-box {
+  display: flex;
+  border: 1px solid black;
+}
+
+.ingredient-list {
+  width: 35%;
+  padding: 10px;
+  border-right: 1px dotted black;
+}
+
+.instructions {
+  width: 65%;
+  padding: 10px;
+}
+
+.citation {
+  font-style: italic;
+}
