@@ -6,8 +6,6 @@
 
 An app made as an introduction to the Angular framework. This app will take three recipes hard-coded in a TypeScript file, print their names on page load, and load ingredients and cooking instructions when the relevent title is selected.
 
-[See a live deployment of this app](https://beer-baron-beer-basement.firebaseapp.com/)
-
 ## Screenshots
 
 ![Screenshot](./src/assets/screenshot.png)
