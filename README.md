@@ -1,27 +1,43 @@
-# RecipeBox
+# Recipe Box
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.5.
+### _Created By_ **Joe Friesen**
 
-## Development server
+# Description
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+An app made as an introduction to the Angular framework. This app will take three recipes hard-coded in a TypeScript file, print their names on page load, and load ingredients and cooking instructions when the relevent title is selected.
 
-## Code scaffolding
+[See a live deployment of this app](https://beer-baron-beer-basement.firebaseapp.com/)
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Screenshots
 
-## Build
+![Screenshot](./src/assets/screenshot.png)
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `-prod` flag for a production build.
+## Technologies Employed
 
-## Running unit tests
+* Angular 6
+* Webpack
+* JavaScript/TypeScript
+* HTML
+* CSS
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## Installation Instructions
 
-## Running end-to-end tests
+* *Clone this repository:*
+  * In terminal, enter the following:
+```
+$ cd ~/desktop
+$ git clone https://github.com/josephfriesen/recipe-box.git
+$ cd recipe-box
+```
+* *Build:*
+  * In terminal, enter
+```
+$ npm install
+$ ng serve
+```
+* *Open:*
+  * In a browser, navigate to *localhost:4200/*
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+### Legal
 
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+Copyright (c) 2018 [Joseph Friesen](mailto:friesen.josephc@gmail.com)
